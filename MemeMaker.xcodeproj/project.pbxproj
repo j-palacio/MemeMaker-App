@@ -13,6 +13,7 @@
 		CFD763BD2C1685A900B122C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD763BB2C1685A900B122C3 /* Main.storyboard */; };
 		CFD763BF2C1685AA00B122C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFD763BE2C1685AA00B122C3 /* Assets.xcassets */; };
 		CFD763C22C1685AA00B122C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFD763C02C1685AA00B122C3 /* LaunchScreen.storyboard */; };
+		CFD763CA2C169C0A00B122C3 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD763C92C169C0A00B122C3 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CFD763BE2C1685AA00B122C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFD763C12C1685AA00B122C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFD763C32C1685AA00B122C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFD763C92C169C0A00B122C3 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CFD763BE2C1685AA00B122C3 /* Assets.xcassets */,
 				CFD763C02C1685AA00B122C3 /* LaunchScreen.storyboard */,
 				CFD763C32C1685AA00B122C3 /* Info.plist */,
+				CFD763C92C169C0A00B122C3 /* CaptionOption.swift */,
 			);
 			path = MemeMaker;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFD763BA2C1685A900B122C3 /* ViewController.swift in Sources */,
+				CFD763CA2C169C0A00B122C3 /* CaptionOption.swift in Sources */,
 				CFD763B62C1685A900B122C3 /* AppDelegate.swift in Sources */,
 				CFD763B82C1685A900B122C3 /* SceneDelegate.swift in Sources */,
 			);
